@@ -1,0 +1,5 @@
+admin abcd123 2
+staff1 staffpassword1 1
+staff2 staffpassowrd2 1
+customer1 customerpassowrd1 0
+oogabooga qwertyuiop123 0

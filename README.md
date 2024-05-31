@@ -1,2 +1,2 @@
-Please copy the "Hotel Management" folder into an approprite location for Apache NetBean's Projects.\
+Please copy the "HotelManagement" folder into an approprite location for Apache NetBean's Projects.\
 Note: some files are not used, such as MANIFEST.MF (an attempt to export the project as an .exe file).
